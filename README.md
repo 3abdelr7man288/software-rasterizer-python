@@ -2,9 +2,9 @@
 ### A Technical Deep-Dive into Custom Software Rasterization using Python and NumPy Foundations
 
 ## Authors
-* **Osama Islam Derbalah** (ID: 202500606)
-* **Hashem Hamed Elwelily** (ID: 202500945)
-* **Abdelrhman Ahmed Shawky** (ID: 202500278)
+* **Abdelrhman Ahmed Shawky**
+* **Osama Islam Derbalah**
+* **Hashem Hamed Elwelily**  
 * **Supervised by:** Dr. Waleed Abdelmeguid Mohamed 
 * **Institution:** Zewail City of Science and Technology (Course: MATH 201)
 
