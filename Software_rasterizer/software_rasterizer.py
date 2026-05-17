@@ -490,7 +490,6 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 
-# Abdelrhman Ahmed Shawky 202500278
-# Hashem Hamed Elwelily 202500945
-# Osama Islam Derbalah 202500606
-
+# Abdelrhman Ahmed Shawky 
+# Hashem Hamed Elwelily 
+# Osama Islam Derbalah
